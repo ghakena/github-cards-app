@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-size: 1rem;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +11,33 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.header-tag {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2.5rem;
+}
+
+.github-profile {
+  margin: 1rem;
+}
+
+.profile-photo, .info {
+  display: inline-block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.4rem;
+}
+
+form input, form button {
+  padding: 1rem;
+  border-radius: 3px;
+}
+
+form input {
+  margin-right: 1rem;
+  border: 3px solid blue;
+}
+
+form button {
+  border: 3px solid green;
 }
