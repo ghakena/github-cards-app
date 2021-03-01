@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# GitHub Cards App
+This is a simple React application that takes in a GitHub username as the input and returns a profile if there exists an account linked with the username entered.
 
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
