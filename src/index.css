@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
 body {
   margin: 0;
   font-size: 1rem;
@@ -29,7 +31,7 @@ code {
 }
 
 form input, form button {
-  padding: 1rem;
+  padding: 1.5rem;
   border-radius: 3px;
 }
 
@@ -40,4 +42,9 @@ form input {
 
 form button {
   border: 3px solid green;
+}
+
+form {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.8rem;
 }
